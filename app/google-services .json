@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826063266545",
+    "project_id": "taller3-computaction",
+    "storage_bucket": "taller3-computaction.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826063266545:android:10a07e3a92a814e5a53f50",
+        "android_client_info": {
+          "package_name": "com.example.taller2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2TdLPaWxo-RKIySL-TgXiy_URUFhx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826063266545:android:b5e5dbb898467fd0a53f50",
+        "android_client_info": {
+          "package_name": "com.example.taller3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2TdLPaWxo-RKIySL-TgXiy_URUFhx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

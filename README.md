@@ -100,6 +100,15 @@ git clone https://github.com/nezsnt/MobileUserTracker-Taller-3.git
 
 6. Ejecutar la aplicación.
 
+## Archivos excluidos del repositorio
+
+Por motivos de seguridad, los siguientes archivos no se encuentran incluidos:
+
+- `app/google-services.json`
+- Configuración local de `local.properties`
+
+Para ejecutar el proyecto es necesario configurarlos manualmente.
+
 ## Autores
 
 - Santiago Ibáñez
